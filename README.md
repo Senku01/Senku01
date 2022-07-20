@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi I'm Vignesh A Full-stack Passinate Developer 👨‍💻 From 🇮🇳
+Hi 👋 I'm Vignesh A Full-stack Passinate Developer 👨‍💻 From 🇮🇳<br></br>
    🔭  I’m currently working on Amazon-React-Clone<br><br>   🌱  I’m currently learning React Js<br><br>   ❓ Ask me about anything related to MERN stack and related technologies<br><br>    ⚡  Fun fact: I use tabs over spaces<br>
 
 
