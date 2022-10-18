@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **React,DataStructures**
+- 💬 Ask me about **React, Datastructures, Web Application Pentesting**
 
 - ⚡ Fun fact **i use Tab over Spaces**
 
