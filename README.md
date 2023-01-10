@@ -32,7 +32,6 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/Senku01">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Senku01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="senku01">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senku01&theme=dracula" alt="senku01">
 	</a>
 	<br/>
