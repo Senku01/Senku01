@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Datastructures, Web Application Pentesting**
 
-- 👨‍💻 All of my projects are available at [https://vignesh-portfol.netlify.app/](https://vignesh-portfol.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vignesh-portfol.netlify.app/)
 
 - ⚡ Fun fact **i use Tab over Spaces**
 
