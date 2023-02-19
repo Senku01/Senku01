@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Netflix-Clone](https://github.com/Senku01/Netflix-Clone)
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **ReactJs,NodeJs**
 
 - 💬 Ask me about **React, Datastructures, Web Application Pentesting**
 
