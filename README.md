@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senku01&theme=dracula" alt="senku01" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix-Clone](https://github.com/Senku01/Netflix-Clone)
+- 🔭 I’m currently working on Intern at Null-The Open Security Community
 
 - 🌱 I’m currently learning **ReactJs,NodeJs**
 
