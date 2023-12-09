@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Intern at Null-The Open Security Community
 
-- 🌱 I’m currently learning **ReactJs,NodeJs**
+- 🌱 I’m currently learning **Data-Structures and Alogrithms**
 
 - 💬 Ask me about **React, Datastructures, Web Application Pentesting**
 
