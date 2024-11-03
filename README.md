@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senku01&theme=dracula" alt="senku01" /></a> </p>
 
-- 🔭 I’m currently working as Intern at Null-The Open Security Community
+- 🔭 I’m currently Looking for Full-Time/Intern
 
-- 🌱 I’m currently learning **Data-Structures and Alogrithms**
+- 🌱 I’m currently learning **Data-Structures and Algorithms and Application Security**
 
-- 💬 Ask me about **React, Datastructures, Web Application Pentesting**
+- 💬 Ask me about **Bug bounty, Appsec, Dsa**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vignesh-portfolio-51746.web.app/)
 
